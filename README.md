@@ -1,5 +1,5 @@
 
-#-Mumbai Baarish Madad
+Mumbai Baarish Madad
 
 1. Idea in a nutshell
 Baarish me Mumbai me kahan paani bharega, ye pehle se batane wala AI idea. Taaki log pehle se rasta badal lein.

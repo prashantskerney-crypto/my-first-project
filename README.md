@@ -1,5 +1,7 @@
 
 # Mumbai Baarish Madad
+Summary
+This project helps people in Mumbai during heavy rain . It shows safe places ,water logging areas and emergency help .
 
 1. Idea in a nutshell
 Baarish me Mumbai me kahan paani bharega, ye pehle se batane wala AI idea. Taaki log pehle se rasta badal lein.
@@ -27,3 +29,4 @@ Ye mera khud ka idea hai. Kisi ka code ya photo nahi liya hai.
 
 Aakhri baat
 Mera idea chhota hai, par kaam ka hai. Agar logon ko 1 ghanta pehle pata chal jaaye ki kahan paani bharega, to bahut logon ka waqt aur Takleef bachegi.
+Summary This project helps people in Mumbai during rain . It shows safe places , water logging areas and emergency help
